@@ -1,0 +1,14 @@
+Endpoint is :
+https://reqres.in/api/users
+
+Request body is :
+{
+    "name": "Mortel",
+    "job": "QALead"
+}
+
+Response header date is : 
+Sat, 09 Mar 2024 05:51:31 GMT
+
+Response body is : 
+{"name":"Mortel","job":"QALead","id":"436","createdAt":"2024-03-09T05:51:31.029Z"}

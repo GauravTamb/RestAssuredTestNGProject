@@ -1,0 +1,14 @@
+Endpoint is :
+https://reqres.in/api/users
+
+Request body is :
+{
+    "name": "Scout",
+    "job": "SrQA"
+}
+
+Response header date is : 
+Sat, 09 Mar 2024 05:51:30 GMT
+
+Response body is : 
+{"name":"Scout","job":"SrQA","id":"968","createdAt":"2024-03-09T05:51:30.322Z"}

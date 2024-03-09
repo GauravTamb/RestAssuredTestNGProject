@@ -1,0 +1,14 @@
+Endpoint is :
+https://reqres.in/api/users
+
+Request body is :
+{
+    "name": "morphis",
+    "job": "leader"
+}
+
+Response header date is : 
+Fri, 08 Mar 2024 08:41:52 GMT
+
+Response body is : 
+{"name":"morphis","job":"leader","id":"447","createdAt":"2024-03-08T08:41:52.015Z"}
